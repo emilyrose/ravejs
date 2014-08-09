@@ -34,10 +34,10 @@ A Rave.js Symposium :tm: culminates in a Rave:
 
 ## Sponsors
 
-DigitalOcean: Mikeal indicated that DigitalOcean might be willing to put forward some sponsorship.
-SoundCloud: Ben's friend Evan at SoundCloud indicated some initial interest.
-GitHub: there used to be quite a few DJs at GitHub, we should see if we can get any interested.
-SauceLabs: Nexxy indicagted that SauceLabs might be interested in sponsoring.
+* DigitalOcean: Mikeal indicated that DigitalOcean might be willing to put forward some sponsorship.
+* SoundCloud: Ben's friend Evan at SoundCloud indicated some initial interest.
+* GitHub: there used to be quite a few DJs at GitHub, we should see if we can get any interested.
+* SauceLabs: Nexxy indicated that SauceLabs might be interested in sponsoring.
 
 ## Venues
 
