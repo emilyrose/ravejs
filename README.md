@@ -2,8 +2,8 @@
 
 ## Mission Statement
 
-1. To build a community of music lovers, visual artists, and JavaScript hackers.
-2. To create shared spaces for community members to practice, collaborate, program, and perform.
+1. To build a community of music lovers and JavaScript hackers.
+2. To create shared spaces for community members to practice, collaborate, hack, and perform.
 3. Build some cool open-source music software in Node.js.
 
 ## Motivation
