@@ -20,7 +20,7 @@ Johnny would like to put together a large loose band of musicians who want to br
 ### code
 Johnny has written many low-level signal processing (DSP) modules for JavaScript in general, and the Web Audio API, and a few for webcam/canvas/video.  He uses them for live coding music and visuals, and to produce samples and songs.  Eventually these modules will used to create musical interfaces and bespoke synthesizers.
 
-These two "beta" tracks were coded directly in Javascript, one live in the browser:
+These two "beta" tracks were coded entirely in Javascript, one live in the browser:
 
 [theegress betmins premix](https://soundcloud.com/johnnyscript/theegress-betamins-premix)
 
