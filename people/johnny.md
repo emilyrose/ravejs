@@ -26,7 +26,7 @@ These two "beta" tracks were coded directly in Javascript, one live in the brows
 Many other of the tracks have an element of javascript in them.  
 
 ### work
-Currently Johnny runs Modulhaus, an organization that aims to support the radical free agency of open source hackers.
+Currently Johnny runs Modulhaus, an organization that aims to support the radical free agency of open source hackers, and represent their interests and projects.
 
 ## links
 [soundcloud](https://soundcloud.com/johnnyscript)
