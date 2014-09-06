@@ -1,4 +1,4 @@
-# Rave.JS
+# DanceJS
 
 ## Mission Statement
 
@@ -20,13 +20,13 @@ We intend to host workshops, talks, and performance events. Initially these will
 
 It would be nice to have frequent informal meetups in a comfortable space where we can: hack on music technology; practice music performances; and, most importantly, begin to build a community around music hacking in the Bay area.
 
-Informal meetups would culminate in a series of more formal (I'm picturing tuxedos) Rave.JS Symposium :tm:.
+Informal meetups would culminate in a series of more formal (I'm picturing tuxedos) DanceJS Symposium :tm:.
  * events would have awesome speakers, from the community, and from the music industry.
- * hands on workshops, e.g., hack on the lighting system for the rave following the talk.
+ * hands on workshops, e.g., hack on the lighting system for the dance following the talk.
 
-## Raves
+## DanceJS
 
-A Rave.js Symposium :tm: culminates in a Rave:
+A DanceJS Symposium :tm: culminates in a Dance:
  * it would be a time for people within the community to show off their performances, which they’ve been perfecting throughout the informal meetups.
  * it would also be a time for people within the community to show off their music-oriented hacking projects: experimental ways to collaborate on music, experimental controllers., etc.
  * In a perfect world we’ll manage to combine these various creative ideas with a fun cohesive performance, which gets people moving on the dance floor.
@@ -35,7 +35,6 @@ A Rave.js Symposium :tm: culminates in a Rave:
 ## Sponsors
 
 * DigitalOcean: Mikeal indicated that DigitalOcean might be willing to put forward some sponsorship.
-* SoundCloud: Ben's friend Evan at SoundCloud indicated some initial interest.
 * GitHub: there used to be quite a few DJs at GitHub, we should see if we can get any interested.
 * SauceLabs: Nexxy indicated that SauceLabs might be interested in sponsoring.
 
@@ -45,7 +44,7 @@ Any ideas for where we could have talks? Where we could throw a late night event
 
 ## Technology Projects
 
-There’s a lot of room for cool open-source projects to grow out of Rave.JS:
+There’s a lot of room for cool open-source projects to grow out of DanceJS:
 
 * Collaborative (networked) APCs.
 * Lighting that reacts to music.
